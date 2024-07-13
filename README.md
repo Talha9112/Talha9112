@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Talha Khattak</h1>
-<h3 align="center">A passionate Laravel developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack web developer from Pakistan</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
