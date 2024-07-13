@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Talha Khattak</h1>
 <h3 align="center">A passionate Laravel developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **SMS**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/talha_khattak.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="talha_khattak.10" height="30" width="40" /></a>
